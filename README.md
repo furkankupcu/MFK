@@ -2,7 +2,8 @@
 ### Hi 👋 I'am Muhammet Furkan Küpçü
 
 <ul>
-      <li>📖 I’m currently learning more about Deep Learning,OpenCv</li>
-      <li>📫 How to reach me: furkan.kupcu@hotmail.com</li>
+      <li>📖 I’m currently learning more about Deep Learning </li>
+      <li>🎮 I am interested in game development.</li>
+      <li>📫 How to reach me: furkankupcu41@hotmail.com</li>
 </ul>
 
