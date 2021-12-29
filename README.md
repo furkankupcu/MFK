@@ -1,5 +1,5 @@
 
-### Hi 👋 I'am Muhammet Furkan Küpçü
+### Hi 👋 I'm Muhammet Furkan Küpçü
 
 <ul>
       <li>📖 I’m currently learning more about Deep Learning </li>
