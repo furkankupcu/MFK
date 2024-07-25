@@ -7,8 +7,6 @@
       <li>📫 How to reach me: furkankupcu41@hotmail.com</li>
 </ul>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=furkankupcu&show_icons=true">
-
 # Merhaba, ben Muhammet Furkan Küpçü! 
 
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/furkankupcu41)
