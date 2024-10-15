@@ -4,7 +4,7 @@
 <ul>
       <li>📖 I’m currently learning more about Deep Learning and Computer Vision. </li>
       <li>🎮 I am interested in Game Development/ Game Design. </li>
-      <li>📫 How to reach me: furkankupcu41@hotmail.com</li>
+      <li>📫 How to reach me: furkankupcu@hotmail.com</li>
 </ul>
 
 # Merhaba, ben Muhammet Furkan Küpçü! 
